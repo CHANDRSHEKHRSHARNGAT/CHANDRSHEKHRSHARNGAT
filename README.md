@@ -1,15 +1,18 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
 <animated-image data-catalyst=""><a href="http://gurukulsofttechnology.liveblog365.com/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="MasterHead" data-canonical-src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
-<h1 align="center">Hi 👋, I'm chandrashekhar sharnagat</h1>
+<h1 align="center" class="animated fadeIn">Hi 👋, I'm chandrashekhar sharnagat</h1>
+<!-- Add animation classes to other elements as desired -->
 <h3 align="center">Passionate Full Stack Developer || Java || Spring Boot || React || SQL</h3>
-
+<p align="right" class="animated fadeInRight">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrshekhrsharngat&label=Profile%20views&color=0e75b6&style=flat" alt="chandrshekhrsharngat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrshekhrsharngat" alt="chandrshekhrsharngat" /></a> </p>
 
-- 🔭 I’m currently working on **Mearchant Credit App**
+- 🔭 I’m currently working on **Merchant credit card application**
 
 - 📝 I regularly write articles on [https://gurukulsofttechnology.in](https://gurukulsofttechnology.in)
 
@@ -33,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrshekhrsharngat&show_icons=true&locale=en" alt="chandrshekhrsharngat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrshekhrsharngat&" alt="chandrshekhrsharngat" /></p>
+  
+
